@@ -1,0 +1,9 @@
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\ConsoleManagementADO\CM_ADO\bin\Debug\CM_ADO.exe.config
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\ConsoleManagementADO\CM_ADO\bin\Debug\CM_ADO.exe
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\ConsoleManagementADO\CM_ADO\bin\Debug\CM_ADO.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\ConsoleManagementADO\CM_ADO\obj\Debug\CM_ADO.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\ConsoleManagementADO\CM_ADO\obj\Debug\CM_ADO.exe
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\ConsoleManagementADO\CM_ADO\obj\Debug\CM_ADO.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\5 Databanken\ConsoleManagementADO\CM_ADO\bin\Debug\CM_ADO.exe.config
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\5 Databanken\ConsoleManagementADO\CM_ADO\obj\Debug\CM_ADO.exe
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\5 Databanken\ConsoleManagementADO\CM_ADO\obj\Debug\CM_ADO.pdb
